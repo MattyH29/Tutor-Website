@@ -12,7 +12,7 @@ body{
     background-image: url(Background.png);
     font-weight: 300;
     padding: 0 24px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 .home-page{
@@ -49,6 +49,7 @@ body{
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 300;
+    color: black;
 }
 
 .text ul{
@@ -59,6 +60,7 @@ body{
     margin: 10px;
     font-family: sans-serif;
     font-size: 20px;
+    color: black;
 }
 
 .get-started button{
@@ -67,6 +69,7 @@ body{
     margin: 12px;
     border: none;
     background-color: #FFAB0B;
+    color: black;
     font-size: 30px;
     box-shadow: 0 10px 15px -3px gray,0 4px 6px -4px gray;
     cursor: pointer;
@@ -98,6 +101,7 @@ body{
     margin-left: 10px;
     border: none;
     background-color: #FFAB0B;
+    color: black;
     font-size: 20px;
     box-shadow: 0 10px 15px -3px gray,0 4px 6px -4px gray;
     cursor: pointer;
